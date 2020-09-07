@@ -1,4 +1,3 @@
-
 # React Native Foundations
 ![React Native, Android, ios Logo](https://www.futuremind.com/m/cache/c8/15/c8150d863e584ed42ccfbdc3f3f1aa3a.jpg)
 ****
@@ -7,13 +6,8 @@ This lesson was created by Dominic Cobb, www.linkedin.com/in/dominiccobb
 * Recent Bootcamp Grads with no previous React-Native exposure
 * Web developers interested in mobile dev
 * Fellow Geeks like me
-## Goals of this lesson
-* Why use React Native?
-* Limitations of React Native
-* What is Expo?
-* How to Getting started
-* Basic Components Overview
-
+## Course Goal
+* Achieve a basic overview of the **React Native** framework along with a foundation of understanding suited for continued self learning and exploration.
 ## Course Structure
 
 - What is React Native?
