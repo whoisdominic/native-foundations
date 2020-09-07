@@ -34,6 +34,22 @@ This lesson was created by Dominic Cobb, www.linkedin.com/in/dominiccobb
 * React Navigation [https://reactnavigation.org/docs/getting-started](https://reactnavigation.org/docs/getting-started)
 * Reanimated [https://docs.swmansion.com/react-native-reanimated/](https://docs.swmansion.com/react-native-reanimated/)
 
+## Lesson 0 = What is React Native?
+
+###
+
+## Lesson 1 = React Cli vs. Expo Cli
+## Lesson 2 = Development Setup
+## Lesson 3 = Basic Components
+## Lesson 4 = Styling
+## Lesson 5 = Navigation
+## Lesson 6 = Forms
+## Lesson 7 = Networking
+## Lesson 8 = Animations
+## Lesson 9 = Permissions
+## Wrap up & further steps
+## Amazing Packages for React Native
+
 ##  Credits
 
 This lesson was created by [Dominic Cobb](https://www.linkedin.com/in/dominiccobb)
