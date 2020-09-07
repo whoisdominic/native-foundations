@@ -36,7 +36,7 @@ This lesson was created by Dominic Cobb, www.linkedin.com/in/dominiccobb
 
 ##  Credits
 
-This lesson was created by [Dominic Cobb](www.linkedin.com/in/dominiccobb)
+This lesson was created by [Dominic Cobb](https://www.linkedin.com/in/dominiccobb)
 
 Dominic Cobb is a Software Engineer Based in southern California. 
 
