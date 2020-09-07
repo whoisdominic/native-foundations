@@ -1,3 +1,4 @@
+
 # React Native Foundations
 ![React Native, Android, ios Logo](https://www.futuremind.com/m/cache/c8/15/c8150d863e584ed42ccfbdc3f3f1aa3a.jpg)
 ****
@@ -35,11 +36,38 @@ This lesson was created by Dominic Cobb, www.linkedin.com/in/dominiccobb
 * Reanimated [https://docs.swmansion.com/react-native-reanimated/](https://docs.swmansion.com/react-native-reanimated/)
 
 ## Lesson 0 = What is React Native?
+React Native is a mobile development framework used to make cross platform mobile/web applications (IOS/Android)
 
-###
+Direct from the React Native Documentation
+> React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces. 
+> 
+> Use a little—or a lot. You can use React Native today in your existing Android and iOS projects or you can create a whole new app from scratch.
+> 
+>React components wrap existing native code and interact with native APIs via React’s declarative UI paradigm and JavaScript. This enables native app development for whole new teams of developers, and can let existing native teams work much faster.
+
 
 ## Lesson 1 = React Cli vs. Expo Cli
+
+
 ## Lesson 2 = Development Setup
+
+First we will install the Expo cli
+
+```npm  install -g expo-cli```
+
+Next we will initiate a new expo project
+
+```expo init foundations --npm```  
+
+We will select managed workflow   
+
+```cd foundations``` 
+
+Then finally we will run the app
+
+```expo start```
+
+
 ## Lesson 3 = Basic Components
 ## Lesson 4 = Styling
 ## Lesson 5 = Navigation
