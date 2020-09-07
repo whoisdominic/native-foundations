@@ -29,14 +29,13 @@ This lesson was created by Dominic Cobb, www.linkedin.com/in/dominiccobb
 - Conclusion
 
 ## Important Resources 
-
-* Expo Docs [https://docs.expo.io/guides/](https://docs.expo.io/guides/)
 * Official React Native Docs [https://reactnative.dev/](https://reactnative.dev/)
+* Expo Docs [https://docs.expo.io/guides/](https://docs.expo.io/guides/)
 * React Navigation [https://reactnavigation.org/docs/getting-started](https://reactnavigation.org/docs/getting-started)
 * Reanimated [https://docs.swmansion.com/react-native-reanimated/](https://docs.swmansion.com/react-native-reanimated/)
 
 ## Lesson 0 = What is React Native?
-React Native is a mobile development framework used to make cross platform mobile/web applications (IOS/Android)
+React Native is a mobile development framework used to make cross platform mobile (IOS/Android), web, and tv applications 
 
 Direct from the React Native Documentation
 > React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces. 
@@ -45,6 +44,24 @@ Direct from the React Native Documentation
 > 
 >React components wrap existing native code and interact with native APIs via React’s declarative UI paradigm and JavaScript. This enables native app development for whole new teams of developers, and can let existing native teams work much faster.
 
+### A few companies using React Native
+<img src="https://reactnative.dev/img/showcase/facebook.png" alt="drawing" width="100"/><img src="https://reactnative.dev/img/showcase/instagram.png" alt="drawing" width="100"/><img src="https://reactnative.dev/img/showcase/pinterest.png" alt="drawing" width="100"/><img src="https://reactnative.dev/img/showcase/ubereats.png" alt="drawing" width="100"/><img src="https://reactnative.dev/img/showcase/tesla.png" alt="drawing" width="100"/> <img src="https://reactnative.dev/img/showcase/salesforce.png" alt="drawing" width="100"/> <img src="https://reactnative.dev/img/showcase/wix.png" alt="drawing" width="100"/><img src="https://reactnative.dev/img/showcase/walmart.png" alt="drawing" width="100"/><img src="https://reactnative.dev/img/showcase/bloomberg.png" alt="drawing" width="100"/>
+
+* Facebook
+* Facebook Ads
+* Facebook Analytics
+* Instagram
+* Oculus
+* Skype
+* Discord
+* Bloomberg
+* Pinterest
+* Tesla
+* Uber Eats
+* Salesforce
+* Wix
+* Vogue
+* and many more!
 
 ## Lesson 1 = React Cli vs. Expo Cli
 
@@ -60,6 +77,8 @@ Next we will initiate a new expo project
 ```expo init foundations --npm```  
 
 We will select managed workflow   
+
+--------SHOW SCREENSHOT--------
 
 ```cd foundations``` 
 
