@@ -114,9 +114,27 @@ Then finally we will run the app
 expo start
 ```
 
-
 ## Lesson 3 = Basic Components
+
+* View
+* Text
+* Button
+* Touchable Opacity
+* TextInput
+* Images
+* Scroll View
+
 ## Lesson 4 = Styling
+
+* Background Image
+
+## Lesson 5 = Additional Components
+
+* Flat List
+* Switch
+* Modal
+* Status Bar
+
 ## Lesson 5 = Navigation
 ## Lesson 6 = Forms
 ## Lesson 7 = Networking
