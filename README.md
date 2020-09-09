@@ -49,7 +49,7 @@ In contrast, React Native actually translates your markup to real, native UI ele
 -Oreilly 
 
 ### A few companies using React Native
-<img src="https://reactnative.dev/img/showcase/facebook.png" alt="drawing" width="100"/><img src="https://reactnative.dev/img/showcase/instagram.png" alt="drawing" width="100"/><img src="https://reactnative.dev/img/showcase/pinterest.png" alt="drawing" width="100"/><img src="https://reactnative.dev/img/showcase/ubereats.png" alt="drawing" width="100"/><img src="https://reactnative.dev/img/showcase/tesla.png" alt="drawing" width="100"/> <img src="https://reactnative.dev/img/showcase/salesforce.png" alt="drawing" width="100"/> <img src="https://reactnative.dev/img/showcase/wix.png" alt="drawing" width="100"/><img src="https://reactnative.dev/img/showcase/walmart.png" alt="drawing" width="100"/><img src="https://reactnative.dev/img/showcase/bloomberg.png" alt="drawing" width="100"/>
+<img src="https://reactnative.dev/img/showcase/facebook.png" alt="drawing" width="100"/>  <img src="https://reactnative.dev/img/showcase/instagram.png" alt="drawing" width="100"/>  <img src="https://reactnative.dev/img/showcase/pinterest.png" alt="drawing" width="100"/>  <img src="https://reactnative.dev/img/showcase/ubereats.png" alt="drawing" width="100"/>  <img src="https://reactnative.dev/img/showcase/tesla.png" alt="drawing" width="100"/> <img src="https://reactnative.dev/img/showcase/salesforce.png" alt="drawing" width="100"/> <img src="https://reactnative.dev/img/showcase/wix.png" alt="drawing" width="100"/>  <img src="https://reactnative.dev/img/showcase/walmart.png" alt="drawing" width="100"/>  <img src="https://reactnative.dev/img/showcase/bloomberg.png" alt="drawing" width="100"/>
 
 * Facebook
 * Facebook Ads
