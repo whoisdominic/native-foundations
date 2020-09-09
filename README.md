@@ -28,7 +28,7 @@ This lesson was created by Dominic Cobb, www.linkedin.com/in/dominiccobb
 * React Navigation [https://reactnavigation.org/docs/getting-started](https://reactnavigation.org/docs/getting-started)
 * Reanimated [https://docs.swmansion.com/react-native-reanimated/](https://docs.swmansion.com/react-native-reanimated/)
 
-## Lesson 0 = What is React Native?
+# Lesson 0 = What is React Native?
 React Native is a mobile development framework used to make cross platform mobile (IOS/Android), web, and tv applications 
 
 Direct from the React Native Documentation
@@ -67,7 +67,7 @@ In contrast, React Native actually translates your markup to real, native UI ele
 * Vogue
 * and many more!
 
-## Lesson 1 = React Cli vs. Expo Cli
+# Lesson 1 = React Cli vs. Expo Cli
 
 ### What is Expo anyway?
 [Expo](http://expo.io/) is a framework and a platform for universal React applications. It is a set of tools and services built around React Native and native platforms that help you develop, build, deploy, and quickly iterate on iOS, Android, and web apps from the same JavaScript/TypeScript codebase.
@@ -84,10 +84,20 @@ The major downside for the **React Native Cli** is that you need to setup build 
 |--|--|--|
 ||  | |
 
-## Lesson 2 = Development Setup
+# Lesson 2 = Development Setup
 
 #### In this course we will be using the Expo SDK, I believe as do many that this is the best way to get familiar with **React Native** development
 
+## **Xcode - Setup** 
+
+To use the Iphone simulator we will need **Xcode installed** locally on your Mac.
+**Xcode** is free on the app store. If you do not have it installed already go to the app store and search for **Xcode**
+
+You can also download the **Expo** Mobile app from the App store on your iPhone or the Playstore for Android
+
+With the **Expo** app you can scan the QR code shown later in this course and download the app to your personal phone. Either way will work fine for this course.
+
+## Expo
 First we will install the Expo cli
 
 ```
@@ -114,7 +124,7 @@ Then finally we will run the app
 expo start
 ```
 
-## Lesson 3 = Basic Components
+# Lesson 3 = Basic Components
 
 * View
 * Text
@@ -135,15 +145,15 @@ expo start
 * Modal
 * Status Bar
 
-## Lesson 5 = Navigation
-## Lesson 6 = Forms
-## Lesson 7 = Networking
-## Lesson 8 = Animations
-## Lesson 9 = Permissions
-## Wrap up & further steps
-## Amazing Packages for React Native
+# Lesson 5 = Navigation
+# Lesson 6 = Forms
+# Lesson 7 = Networking
+# Lesson 8 = Animations
+# Lesson 9 = Permissions
+# Wrap up & further steps
+# Amazing Packages for React Native
 
-##  Credits
+#  Credits
 
 This lesson was created by [Dominic Cobb](https://www.linkedin.com/in/dominiccobb)
 
@@ -152,7 +162,7 @@ Dominic Cobb is a Software Engineer Based in southern California.
 <img src="https://i.ibb.co/16pT7qD/C91-F83-B7-F11-B-42-C8-8-C4-F-A45-B1559935-E-1-201-a.jpg" alt="drawing" width="450"/>
 
 
-#### Special thanks to 
+## Special thanks to 
 - [Arthur Bernier Jr.](https://www.linkedin.com/in/developmentandmanagement/)
 - [Alex Merced](https://www.linkedin.com/in/alexmerced/)
 - [Arman Sadri](https://www.linkedin.com/in/arman-sadri-3b328a30/)
@@ -160,7 +170,7 @@ Dominic Cobb is a Software Engineer Based in southern California.
 - [Kadi Kraman](https://www.linkedin.com/in/kadi-kraman-922a7277/?originalSubdomain=uk)
 - [Pradip Debnath](https://www.linkedin.com/in/itzpradip/)
 
-#### Sources
+## Sources
 
 * Official React Native Docs [https://reactnative.dev/](https://reactnative.dev/)
 * Expo Docs [https://docs.expo.io/guides/](https://docs.expo.io/guides/)
