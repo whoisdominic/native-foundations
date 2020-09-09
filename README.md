@@ -90,21 +90,29 @@ The major downside for the **React Native Cli** is that you need to setup build 
 
 First we will install the Expo cli
 
-```npm  install -g expo-cli```
+```
+npm  install -g expo-cli
+```
 
 Next we will initiate a new expo project
 
-```expo init foundations --npm```  
+```
+expo init foundations --npm
+```  
 
 We will select managed workflow   
 
 --------SHOW SCREENSHOT--------
 
-```cd foundations``` 
+```
+cd foundations
+``` 
 
 Then finally we will run the app
 
-```expo start```
+```
+expo start
+```
 
 
 ## Lesson 3 = Basic Components
